@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors-Game
 Rules:
-per, and scissors. Here are the standard rules:
 
 1. Rock beats scissors: If one player chooses rock and the other player chooses scissors, the player who chose rock wins.
 
